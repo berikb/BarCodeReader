@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/berik/Documents/BarcodeReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/berik/Documents/BarcodeReader/app/build/intermediates/pre-dexed/debug/classes-553269260d086c4ead347a37c79cf7ca121d0e3c.jar" />
+    </item>
+    <item
+        jar="/Users/berik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/berik/Documents/BarcodeReader/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1fe757a2f6b2af826e33e5cf2ec3d123c331f255.jar" />
+    </item>
+
+</items>
